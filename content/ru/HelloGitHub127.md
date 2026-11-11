@@ -1,7 +1,7 @@
 # 《HelloGitHub》Выпуск 127
 > Интерес — лучший учитель, а **HelloGitHub** помогает заинтересоваться открытым кодом!
 
-> **Перевод на русский:** Александр Давыдов (Aleksandr Davydenko), [@kotuke](https://github.com/kotuke) · Оригинал: [HelloGitHub №127](https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub127.md) · Лицензия: CC BY-NC-ND 4.0 · Перевод также опубликован на [kotuke.ru](https://kotuke.ru/521xueweihan/127.html)
+> **Перевод на русский:** Александр Давыденко (Aleksandr Davydenko), [@kotuke](https://github.com/kotuke) · Оригинал: [HelloGitHub №127](https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub127.md) · Лицензия: CC BY-NC-ND 4.0 · Перевод также опубликован на [kotuke.ru](https://kotuke.ru/521xueweihan/127.html)
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -206,4 +206,4 @@
 ## Заявление
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh"><img alt="Лицензия Creative Commons" style="border-width: 0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png"></a><br>Оригинал распространяется по лицензии <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh">«Атрибуция — Некоммерческое использование — Без производных 4.0 Всемирная»</a> (CC BY-NC-ND 4.0).
 
-Перевод выполнил Александр Давыдов (Aleksandr Davydenko), https://github.com/kotuke — некоммерческая публикация с указанием авторства оригинала. Оригинал: <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub127.md">HelloGitHub №127</a>.
+Перевод выполнил Александр Давыденко (Aleksandr Davydenko), https://github.com/kotuke — некоммерческая публикация с указанием авторства оригинала. Оригинал: <a href="https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub127.md">HelloGitHub №127</a>.
